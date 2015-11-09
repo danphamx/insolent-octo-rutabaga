@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Neko Atsume Tubbs</string>
+    <string name="BackyardImage">\@string BackyardImage</string>
+    <string name="TestImage">TestImage</string>
+    <string name="TubbsPng">TubbsPng</string>
+    <string name="TubbsFinal">TubbsFinal</string>
+    <string name="androidparty">androidparty</string>
+</resources>
